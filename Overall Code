@@ -30,7 +30,7 @@ delayMicroseconds(2);
 // Sets the trigPin on HIGH state for 10 micro seconds
 digitalWrite(trigPin, HIGH);
 digitalWrite(trigPin1, HIGH);
-delayMicroseconds(10);
+delayMicroseconds(2);
 digitalWrite(trigPin, LOW);
 digitalWrite(trigPin1, LOW);
 
